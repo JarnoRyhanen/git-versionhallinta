@@ -1,3 +1,7 @@
+## Harjoitus 1
+
+Ei kysymyksiä
+
 ## Harjoitus 2
 
 Kysymys: Tarkastele tekemiäsi talletuksia komennolla git log. Kokeile myös komentoa laajentimella --stat. Mitä lisätietoa saat?
@@ -113,4 +117,8 @@ V:
 
 ## Harjoitus 6
 
-Ei kysymyksia
+Ei kysymyksiä
+
+## Harjoitus 7
+
+Ei kysymyksiä
