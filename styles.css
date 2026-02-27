@@ -12,6 +12,7 @@ body {
 
 main {
 	text-align: center;
+	background-color: red;
 }
 
 #datetime {
