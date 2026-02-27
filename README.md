@@ -1,3 +1,8 @@
+# Git-versionhallinta - SOF013AS2A-3002
+Tekijä: Jarno Ryhänen
+
+Tämä repositorio on Git-versionhallinta -kurssin tehtävärepositorio, josta löytyy tehtäviin liittyviä tiedostoja ja historia. 
+
 ## Harjoitus 1
 
 Ei kysymyksiä
